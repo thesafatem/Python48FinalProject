@@ -1,5 +1,6 @@
 import tkinter as tk
 
+# I made some changes
 
 class Navbar:
 	def __init__(self, frame):
